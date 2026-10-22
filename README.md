@@ -5,7 +5,11 @@ English** (C1, C2). Every word, example and sentence has audio.
 
 **[Try sample cards in the browser](https://salmanmohebi.github.io/kizamu-decks-releases/)** ·
 **[Download the decks](https://github.com/salmanmohebi/kizamu-decks-releases/releases/latest)** ·
+**[On AnkiWeb](https://ankiweb.net/shared/decks?search=kizamu)** ·
 **[Audio on Hugging Face](https://huggingface.co/datasets/salmanmohebi/kizamu-audio)**
+
+Made by [Kizamu (刻む)](https://kizamu.app): spaced repetition, active recall and AI
+tutoring for long-term learning.
 
 ## Decks
 
@@ -39,6 +43,11 @@ Usage card (fill the gap, say it, or listen). Set 01 of every category holds the
 useful items. The two levels share no items.
 
 ## Import
+
+**From AnkiWeb:** in Anki, click **Get Shared**, search for `kizamu` and add the deck
+([kizamu decks on AnkiWeb](https://ankiweb.net/shared/decks?search=kizamu)).
+
+**From the release** (includes the deck presets):
 
 1. Download the `.apkg` files you want from the
    [latest release](https://github.com/salmanmohebi/kizamu-decks-releases/releases/latest).
